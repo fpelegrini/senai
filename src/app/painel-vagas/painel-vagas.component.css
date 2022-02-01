@@ -1,0 +1,27 @@
+.pv-form{
+    text-align: right;
+    margin-bottom: 10px;
+    width: 400px;
+}
+
+.pv-form label{
+    width: 100px;
+    text-align: left;
+}
+
+.pv-form button{
+    margin-top: 10px;
+    margin-right: 5px;
+}
+
+.pv-form #ca{
+    background-color: lightblue;
+}
+
+.pv-form #at{
+    background-color: lightyellow;
+}
+
+.pv-form #ex{
+    background-color: lightcoral;
+}
